@@ -1,7 +1,4 @@
-import phone from "../../assets/phone.png"
-import email from "../../assets/email.png"
-import social from "../../assets/social.png"
-import { headers } from "next/headers";
+
 
 
  function Header() {

@@ -1,4 +1,4 @@
-import shop from "../assets/shop.png"
+
 
 export default function Hero() {
     return(

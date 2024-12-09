@@ -1,6 +1,4 @@
-import twitter from "../assets/twitter.png"
-import insta from "../assets/insta.png"
-import facebook from "../assets/facebook.png"
+
 
 export default function Footer() {
     return (

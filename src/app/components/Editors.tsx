@@ -1,7 +1,4 @@
-import editor from "../assets/editor.png"
-import editor2 from "../assets/editor2.png"
-import editor3 from "../assets/editor3.png"
-import editor4 from "../assets/editor4.png"
+
 
 
 export default function Editors() {

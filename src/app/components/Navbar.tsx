@@ -1,11 +1,6 @@
 "use client";
-import Image from "next/image";
 import Link from "next/link";  
-import user from "../../assets/user.png";
-import search from "../../assets/search.png";
-import cart from "../../assets/cart.png";
-import heart from "../../assets/heart.png";
-import { useState } from "react"; 
+
 
 export default function Navbar(){
 
